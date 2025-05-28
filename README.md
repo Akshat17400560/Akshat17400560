@@ -31,7 +31,6 @@ Machine learning pipeline built with Python and Scikit-Learn to classify stars b
 ### [Cloud-Based VM Launcher](https://github.com/your-username/cloud-vm-launcher)  
 A Flask web app designed to simplify cloud infrastructure by enabling seamless launching and management of virtual machines.
 
-*(Replace the URL above with your actual repo link when ready.)*
 
 ---
 
