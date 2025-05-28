@@ -3,10 +3,10 @@
 <h3 align="center">A passionate explorer of the cosmos through code, data, and imagination.</h3>
 
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/09/19/26/15/360_F_919261584_kC6Auv63lauhMYp5p2BuXJNaLzYABxuM.jpg" alt="Space Banner" width="1000" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://t4.ftcdn.net/jpg/09/19/26/15/360_F_919261584_kC6Auv63lauhMYp5p2BuXJNaLzYABxuM.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akshat17400560&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -68,21 +68,35 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat17400560&show_icons=true&theme=default&border_radius=12&hide_border=false" width="49.5%" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat17400560&layout=compact&border_radius=12&hide_border=false" width="49.5%" />
-</p>
+<div align="center">
+  <table cellspacing="0" cellpadding="0" style="border: none;">
+    <tr>
+      <td style="padding: 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Akshat17400560&show_icons=true&theme=default&border_radius=12&hide_border=true" height="250" />
+      </td>
+      <td style="padding: 0;" rowspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat17400560&layout=compact&border_radius=12&hide_border=true" height="310" />
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 0; background-color: white;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat17400560&hide_border=true" height="250"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat17400560&theme=default&border_radius=12&hide_border=false" />
-</p>
+
+
+
+
 
 ---
 
 ### 🌠 Quote That Inspires Me
 
-> “Somewhere, something incredible is waiting to be known.”  
-> — Carl Sagan
+> “The good thing about science is that it's true whether or not you believe in it.”  
+> - Neil deGrasse Tyson
 
 ---
 
