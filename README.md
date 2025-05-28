@@ -1,75 +1,88 @@
-<h1 align="center">Hi 👋, I'm Akshat Verma</h1>
+<h1 align="center">🚀 Hi, I'm Akshat Verma 👋</h1>
 
-<h3 align="center">
-    🚀 Passionate about space science, astrophysics, and leveraging technology through machine learning and software development.
-</h3>
+<h3 align="center">A passionate explorer of the cosmos through code, data, and imagination.</h3>
 
 <div align="center">
-    <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=800&q=80" alt="Space Background" width="700"/>
+    <img src="https://t4.ftcdn.net/jpg/09/19/26/15/360_F_919261584_kC6Auv63lauhMYp5p2BuXJNaLzYABxuM.jpg" alt="Space Banner" width="1000" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshat17400560&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
-
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" />
-
-- 🌱 I’m currently honing skills in **Python, C++, Front-end Development, Flask, and Machine Learning**.  
-- 🔭 Working on projects like **Stellar Classification Models** and a **Cloud-Based VM Launcher**.  
-- 📚 I love reading about **cosmology, quantum mechanics, and astrophysics**.  
-- ✈️ When not coding, you’ll find me **traveling and exploring the wonders of our universe**.  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Akshat17400560&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌌 About Me
+
+<img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" style="border-radius: 12px; margin-left: 15px;"/>
+
+- 🔭 **Currently Exploring:**  
+  Python, C++, Flask, Front-end Development & Machine Learning  
+- 🛠️ **Projects I'm Building:**  
+  - *Stellar Classification Model* – Predicting star types from spectral data.  
+  - *Cloud-Based VM Launcher* – Simplifying infrastructure setup via web interfaces.  
+- 🎓 **Always Learning:**  
+  Cosmology, Quantum Mechanics, and how the Universe works at both the tiniest and grandest scales.  
+- 🌠 **Fun Fact:**  
+  When I’m not coding, I’m lost in the mysteries of black holes, supernovae, and the expanding cosmos — or planning my next travel escape.
+
+---
+
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/akshat-verma-1ab99b223/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="mailto:your-email@example.com" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
-</a>
-</p>
-
----
-
-<h3 align="left">Languages & Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="flask" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="90" height="40" style="vertical-align:middle"/> 
+  <a href="https://www.linkedin.com/in/akshat-verma-1ab99b223/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://github.com/tesseract-ocr/tesseract" target="_blank" rel="noreferrer"> 
-    <img src="https://tesseract.projectnaptha.com/img/tesseract-logo.png" alt="tesseract" width="90" height="40" style="vertical-align:middle"/> 
-  </a> 
+  &nbsp;&nbsp;
+  <a href="mailto:akshatverma2708@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30"/>
+  </a>
 </p>
 
 ---
 
-<h3 align="left">Featured Projects</h3>
+### 🛠️ Tech Stack & Tools
 
-### [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)  
-A machine learning project using Python and Scikit-Learn to classify stars based on spectral data — advancing the understanding of stellar lifecycles.
-
-### [Cloud-Based VM Launcher](https://github.com/your-username/cloud-vm-launcher)  
-A Flask web application to simplify launching and managing cloud virtual machines.
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="90" alt="Scikit-learn"/>
+  <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGfyi8SnPCgmeaGDl3TZaUx4=/tesseractocr-2023-01-04%2000-00-00-2025-03-12%2014-11-47" width="40" alt="Tesseract OCR"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyr0PCnTjl_fdos4TNpbfkDMlXkGlLeZ5hKA&s" width="60" alt="Flask"/>
+</p>
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat17400560&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+### 🌟 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshat17400560&show_icons=true&locale=en" alt="github stats" /></p>
+#### 🚀 [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)
+> A supervised machine learning model that classifies stars based on their temperature, luminosity, radius, and spectral class using Scikit-Learn. Built to deepen understanding of stellar evolution and spectral patterns.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat17400560" alt="github streak" /></p>
+#### ☁️ [Cloud VM Launcher](https://github.com/your-username/cloud-vm-launcher)
+> A web application developed with Flask to create, manage, and terminate cloud-based virtual machines with ease. Optimized for students, educators, and developers.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akshat17400560&show_icons=true&theme=default&border_radius=12&hide_border=false" width="49.5%" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat17400560&layout=compact&border_radius=12&hide_border=false" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat17400560&theme=default&border_radius=12&hide_border=false" />
+</p>
+
+---
+
+### 🌠 Quote That Inspires Me
+
+> “Somewhere, something incredible is waiting to be known.”  
+> — Carl Sagan
+
+---
+
