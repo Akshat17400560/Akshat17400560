@@ -1,43 +1,75 @@
-# Hi, I'm Akshat Verma 👋
+<h1 align="center">Hi 👋, I'm Akshat Verma</h1>
 
-I'm deeply passionate about **space science and astrophysics**, captivated by the universe's mysteries — from quantum fluctuations to cosmic structures. I bridge the gap between science and technology through software development and machine learning.
+<h3 align="center">
+    🚀 Passionate about space science, astrophysics, and leveraging technology through machine learning and software development.
+</h3>
 
----
+<div align="center">
+    <img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?auto=format&fit=crop&w=800&q=80" alt="Space Background" width="700"/>
+</div>
 
-## 🚀 About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshat17400560&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-- Proficient in **C++**, **Python**, **Front-end Development**, **Flask**, **Scikit-Learn**, and **Tesseract OCR**.
-- Currently developing projects such as **Stellar Classification models** and a **Cloud-Based Virtual Machine Launcher**.
-- Avid reader and researcher of cosmology, astrophysics, and quantum mechanics.
-- Enthusiast of travel, always eager to explore new perspectives beyond the stars.
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" />
 
----
-
-## 🛠️ Tech Stack
-
-| Languages       | Frameworks & Libraries | Tools & Platforms        |
-|-----------------|-----------------------|-------------------------|
-| C++             | Flask                 | Cloud Computing          |
-| Python          | Scikit-Learn          | Virtual Machines (VMs)   |
-| HTML, CSS, JavaScript | Tesseract OCR    | Git & GitHub             |
+- 🌱 I’m currently honing skills in **Python, C++, Front-end Development, Flask, and Machine Learning**.  
+- 🔭 Working on projects like **Stellar Classification Models** and a **Cloud-Based VM Launcher**.  
+- 📚 I love reading about **cosmology, quantum mechanics, and astrophysics**.  
+- ✈️ When not coding, you’ll find me **traveling and exploring the wonders of our universe**.  
 
 ---
 
-## 🌟 Featured Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/akshat-verma-1ab99b223/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+<a href="mailto:your-email@example.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">Languages & Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="flask" width="40" height="40"/> 
+  </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="90" height="40" style="vertical-align:middle"/> 
+  </a>
+  <a href="https://github.com/tesseract-ocr/tesseract" target="_blank" rel="noreferrer"> 
+    <img src="https://tesseract.projectnaptha.com/img/tesseract-logo.png" alt="tesseract" width="90" height="40" style="vertical-align:middle"/> 
+  </a> 
+</p>
+
+---
+
+<h3 align="left">Featured Projects</h3>
 
 ### [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)  
-Machine learning pipeline built with Python and Scikit-Learn to classify stars based on their spectral data — helping to analyze and understand stellar properties and evolution.
+A machine learning project using Python and Scikit-Learn to classify stars based on spectral data — advancing the understanding of stellar lifecycles.
 
 ### [Cloud-Based VM Launcher](https://github.com/your-username/cloud-vm-launcher)  
-A Flask web app designed to simplify cloud infrastructure by enabling seamless launching and management of virtual machines.
-
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Verma-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akshat-verma-1ab99b223/)  
+A Flask web application to simplify launching and managing cloud virtual machines.
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss space, coding, or any related topic. 🚀✨
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Akshat17400560&show_icons=true&locale=en&layout=compact" alt="top languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Akshat17400560&show_icons=true&locale=en" alt="github stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat17400560" alt="github streak" /></p>
