@@ -1,15 +1,15 @@
 # Hi, I'm Akshat Verma 👋
 
-I'm a passionate enthusiast of **space science and astrophysics**, fascinated by the mysteries of the universe—from the tiniest quantum fluctuations to the vast cosmos. Currently, I’m exploring the intersection of technology and science through software development and machine learning.
+I'm deeply passionate about **space science and astrophysics**, captivated by the universe's mysteries — from quantum fluctuations to cosmic structures. I bridge the gap between science and technology through software development and machine learning.
 
 ---
 
 ## 🚀 About Me
 
-- Skilled in **C++**, **Python**, **Front-end Development**, **Flask**, **Scikit-Learn**, and **Tesseract OCR**.
-- Working on projects like **Stellar Classification models** and a **Cloud-Based Virtual Machine Launcher**.
-- I love diving deep into cosmology, astrophysics, and quantum mechanics through books and research.
-- Outside of coding and science, I enjoy **traveling** and expanding my worldview.
+- Proficient in **C++**, **Python**, **Front-end Development**, **Flask**, **Scikit-Learn**, and **Tesseract OCR**.
+- Currently developing projects such as **Stellar Classification models** and a **Cloud-Based Virtual Machine Launcher**.
+- Avid reader and researcher of cosmology, astrophysics, and quantum mechanics.
+- Enthusiast of travel, always eager to explore new perspectives beyond the stars.
 
 ---
 
@@ -18,27 +18,27 @@ I'm a passionate enthusiast of **space science and astrophysics**, fascinated by
 | Languages       | Frameworks & Libraries | Tools & Platforms        |
 |-----------------|-----------------------|-------------------------|
 | C++             | Flask                 | Cloud Computing          |
-| Python          | Scikit-Learn          | Virtual Machines (VMs)  |
-| HTML, CSS, JS   | Tesseract OCR         | Git & GitHub             |
+| Python          | Scikit-Learn          | Virtual Machines (VMs)   |
+| HTML, CSS, JavaScript | Tesseract OCR    | Git & GitHub             |
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Stellar Classification](https://github.com/your-username/stellar-classification)  
-A machine learning project using Python and Scikit-Learn to classify stars based on their spectral data, helping to better understand stellar properties and their life cycles.
+### [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)  
+Machine learning pipeline built with Python and Scikit-Learn to classify stars based on their spectral data — helping to analyze and understand stellar properties and evolution.
 
 ### [Cloud-Based VM Launcher](https://github.com/your-username/cloud-vm-launcher)  
-A Flask-powered web application that allows users to launch and manage virtual machines in the cloud seamlessly, aimed at simplifying cloud resource management.
+A Flask web app designed to simplify cloud infrastructure by enabling seamless launching and management of virtual machines.
 
-*(Feel free to replace the GitHub repo URLs above with your actual links.)*
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Verma-blue?logo=linkedin)](https://www.linkedin.com/in/akshat-verma-1ab99b223/)  
+*(Replace the URL above with your actual repo link when ready.)*
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you’d like to collaborate or chat about space, coding, or anything in between! 🚀✨
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Verma-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/akshat-verma-1ab99b223/)  
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate or discuss space, coding, or any related topic. 🚀✨
