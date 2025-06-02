@@ -61,8 +61,8 @@
 #### 🚀 [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)
 > A supervised machine learning model that classifies stars based on their temperature, luminosity, radius, and spectral class using Scikit-Learn. Built to deepen understanding of stellar evolution and spectral patterns.
 
-#### ☁️ [Cloud VM Launcher](https://github.com/your-username/cloud-vm-launcher)
-> A web application developed with Flask to create, manage, and terminate cloud-based virtual machines with ease. Optimized for students, educators, and developers.
+#### ☁️ [AI-Based Code Optimizer](https://github.com/Akshat17400560/AI-Based_CodeOptmizer)
+> A web application developed with Flask which automatically analyzes, refactors, and optimizes source code using machine learning and natural language processing.
 
 ---
 
