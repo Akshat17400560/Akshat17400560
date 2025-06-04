@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/07/48/96/37/360_F_748963705_zOjrDKA12bmdmVrMm16ys884bIO57iPC.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://www.mub.eps.manchester.ac.uk/science-engineering/wp-content/uploads/sites/59/2022/03/Black-hole-banner.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
 <p align="left">
@@ -20,12 +20,13 @@
 - 🔭 **Currently Exploring:**  
   Python, C++, Flask, Front-end Development & Machine Learning  
 - 🛠️ **Projects I'm Building:**  
-  - *Stellar Classification Model* – Predicting star types from spectral data.  
-  - *Cloud-Based VM Launcher* – Simplifying infrastructure setup via web interfaces.  
+  - *Stellar Classification Model* – A supervised ML model built using Scikit-learn to classify stars like Main Sequence, Giants, and White Dwarfs based on features such as temperature, luminosity, radius, and spectral class. It merges my passion for astrophysics with machine learning to simulate stellar evolution.  
+  - *AI-Based Code Optimizer* – A Flask-based web app that uses NLP and ML to analyze source code and recommend structural and performance improvements. It’s designed to simplify code reviews, improve readability, and assist developers in writing cleaner, more efficient code automatically.
+ 
 - 🎓 **Always Learning:**  
   Cosmology, Quantum Mechanics, and how the Universe works at both the tiniest and grandest scales.  
 - 🌠 **Fun Fact:**  
-  When I’m not coding, I’m lost in the mysteries of black holes, supernovae, and the expanding cosmos — or planning my next travel escape.
+  When I'm not immersed in code, you'll probably find me exploring the wonders of the universe — pondering black holes, supernovae, or the vastness of space. And when the stars take a break, so do I planning my next adventure on Earth.
 
 ---
 
