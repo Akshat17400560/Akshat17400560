@@ -1,6 +1,3 @@
-<h1 align="center">🚀 Hi, I'm Akshat Verma 👋</h1>
-
-<h3 align="center">A passionate explorer of the cosmos through code, data, and imagination.</h3>
 
 <div align="center">
     <img src="https://t4.ftcdn.net/jpg/09/19/26/15/360_F_919261584_kC6Auv63lauhMYp5p2BuXJNaLzYABxuM.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
@@ -9,6 +6,10 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Akshat17400560&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
+<h1 align="center">🚀 Hi, I'm Akshat Verma 👋</h1>
+
+<h3 align="center">A passionate explorer of the cosmos through code, data, and imagination.</h3>
 
 ---
 
