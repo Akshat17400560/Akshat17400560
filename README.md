@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/09/19/26/15/360_F_919261584_kC6Auv63lauhMYp5p2BuXJNaLzYABxuM.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://images.unsplash.com/photo-1444080748397-f442aa95c3e5?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlnaHQlMjBza3klMjB3YWxscGFwZXJ8ZW58MHx8MHx8fDA%3D" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
 <p align="left">
