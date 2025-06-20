@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://www.mub.eps.manchester.ac.uk/science-engineering/wp-content/uploads/sites/59/2022/03/Black-hole-banner.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://t4.ftcdn.net/jpg/09/33/59/77/360_F_933597796_tHAfUK9nyTwOnTLAccPP1xHhqmyge6Ck.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
 <p align="left">
