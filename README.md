@@ -18,10 +18,11 @@
 <img align="right" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="320" style="border-radius: 12px; margin-left: 15px;"/>
 
 - 🔭 **Currently Exploring:**  
-  Python, C++, Flask, Front-end Development & Machine Learning  
+ LangChain, LangGraph, Retrieval-Augmented Generation (RAG), Large Language Models (LLMs) Orchestration, Pinecone, and Agentic AI Systems
 - 🛠️ **Projects I'm Building:**  
   - *Stellar Classification Model* – A supervised ML model built using Scikit-learn to classify stars like Main Sequence, Giants, and White Dwarfs based on features such as temperature, luminosity, radius, and spectral class. It merges my passion for astrophysics with machine learning to simulate stellar evolution.  
-  - *AI-Based Code Optimizer* – A Flask-based web app that uses NLP and ML to analyze source code and recommend structural and performance improvements. It’s designed to simplify code reviews, improve readability, and assist developers in writing cleaner, more efficient code automatically.
+  - *GravityLens – Gravitational Wave Research Assistant* – A RAG-powered AI assistant built with LangChain, Gemini, Pinecone, and Streamlit that retrieves information from scientific literature and provides context-aware answers on gravitational waves, black hole mergers, and modern astrophysics.
+
  
 - 🎓 **Always Learning:**  
   Cosmology, Quantum Mechanics, and how the Universe works at both the tiniest and grandest scales.  
@@ -46,14 +47,32 @@
 
 ### 🛠️ Tech Stack & Tools
 
-<p>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" alt="CSS"/>
+  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" alt="Git"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" alt="GitHub"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" alt="MySQL"/>
+
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="90" alt="Scikit-learn"/>
-  <img src="https://www.outsystems.com/Forge_CW/_image.aspx/Q8LvY--6WakOw9afDCuuGfyi8SnPCgmeaGDl3TZaUx4=/tesseractocr-2023-01-04%2000-00-00-2025-03-12%2014-11-47" width="40" alt="Tesseract OCR"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyr0PCnTjl_fdos4TNpbfkDMlXkGlLeZ5hKA&s" width="60" alt="Flask"/>
+
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="40" alt="Streamlit"/>
+
+  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/langchain-ipuhh4qo1jz5ssl4x0g2a.png/langchain-dp1uxj2zn3752pntqnpfu2.png?_a=DATAiZAAZAA0" width="40" alt="LangChain"/>
+
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph-color.png" width="40" alt="LangGraph"/>
+
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langsmith-color.png" width="40" alt="LangSmith"/>
+  
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="40" alt="Gemini"/>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSobT6Nq7W-FJnK5lLapZlwySLwB0W4sKCYDg&s" width="40" alt="OpenAI"/>
+
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ollama-icon.png" width="40" alt="Ollama"/>
+
+  <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" width="40" alt="Pinecone"/>
 </p>
 
 ---
@@ -63,8 +82,8 @@
 #### 🚀 [Stellar Classification](https://github.com/Akshat17400560/Space-Science-Projects-Akshat-Verma)
 > A supervised machine learning model that classifies stars based on their temperature, luminosity, radius, and spectral class using Scikit-Learn. Built to deepen understanding of stellar evolution and spectral patterns.
 
-#### ☁️ [AI-Based Code Optimizer](https://github.com/Akshat17400560/AI-Based_CodeOptmizer)
-> A web application developed with Flask which automatically analyzes, refactors, and optimizes source code using machine learning and natural language processing.
+#### 🔭 [GravityLens - A RAG based Gravitational Wave Research Assistant](https://github.com/Akshat17400560/GravityLens---Gravitational-Wave-Research-Assistant)
+> A RAG-powered AI assistant built with LangChain, Gemini, Pinecone, and Streamlit that retrieves information from scientific literature and provides context-aware answers on gravitational waves, black hole mergers, and modern astrophysics.
 
 ---
 
