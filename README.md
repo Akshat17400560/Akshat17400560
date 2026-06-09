@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://t4.ftcdn.net/jpg/09/33/59/77/360_F_933597796_tHAfUK9nyTwOnTLAccPP1xHhqmyge6Ck.jpg" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
+    <img src="https://ps.w.org/blackhole-bad-bots/assets/banner-1544x500.jpg?rev=1353077" alt="Space Banner" width="1100" style="border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);"/>
 </div>
 
 <p align="left">
